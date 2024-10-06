@@ -1,2 +1,3 @@
 # Final assignment
-Python Assignment on web scrapping created using Jupyter Lab.
+* Data collection using web scrapping Technique.
+* Visualaization of latest Trend in Technologies.
