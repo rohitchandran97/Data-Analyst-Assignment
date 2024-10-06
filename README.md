@@ -1,4 +1,4 @@
 # Final assignment
-Python Assignment created using Jupyter Lab
+Python Assignment on web scrapping created using Jupyter Lab.
 
 it's a markdown file in the Repository.
