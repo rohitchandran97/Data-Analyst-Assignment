@@ -1,6 +1,6 @@
 # Final Data Analysis Project
 
-#### This is project done as a part of *final Capstone Project* for recieveing Data Analysis Professional Certificate 
+#### This is project done as a part of **final Capstone Project** for recieveing Data Analysis Professional Certificate 
 
 I undertook following Data analysis methodologies to understand latest trend in technology based on data gathered from various sources.
 * Data collection using Job listings API & web scrapping Technique.
