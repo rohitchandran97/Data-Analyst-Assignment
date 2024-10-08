@@ -8,5 +8,7 @@ I undertook following Data analysis methodologies to understand latest trend in 
 * Exploratory data analysis
 * Pivot table
 * Visualaization of latest Trend in Technologies.
+  
+Also created a interactive web based application using Plotly Dash Framework.
 
 Data source : " https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in "
